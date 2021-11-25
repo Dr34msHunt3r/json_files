@@ -61,32 +61,32 @@
     {
       "id": 1,
       "recipeId": 1,
-      "ingredient": "0.5kg pasta"
+      "name": "0.5kg pasta"
     },
     {
       "id": 2,
       "recipeId": 1,
-      "ingredient": "lots of water"
+      "name": "lots of water"
     },
     {
       "id": 1,
       "recipeId": 7,
-      "ingredient": "some pasta"
+      "name": "some pasta"
     },
     {
       "id": 2,
       "recipeId": 7,
-      "ingredient": "bacon"
+      "name": "bacon"
     },
     {
       "id": 3,
       "recipeId": 7,
-      "ingredient": "red onion!"
+      "name": "red onion!"
     },
     {
       "id": 4,
       "recipeId": 7,
-      "ingredient": "lots of water also"
+      "name": "lots of water also"
     }
   ]
 }
